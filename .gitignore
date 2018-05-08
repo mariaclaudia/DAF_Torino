@@ -1,0 +1,14 @@
+notebooks/preprocessing/\.ipynb_checkpoints/
+
+# misc
+.DS_Store
+*~
+
+#ignore shapefiles
+*.prj
+*.sbn
+*.shx
+*.sbx
+*.shp
+*.dbf
+*.xml
