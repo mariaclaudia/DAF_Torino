@@ -1,0 +1,4 @@
+WKT_GEOM;ID_TURISTI;DENOMINAZ;CITTA;INDIRIZZO;CIRCOSCRIZ;CAP;TELEFONO;FAX;EMAIL;URL;COORD_X;COORD_Y
+POINT (1396461.649 4991757.672);1;Uffici di informazione e accoglienza turistica;TORINO;VIA GIUSEPPE GARIBALDI 2/F;1;10122;011 535181;011 530070;info.torino@turismotorino.org;http://www.comune.torino.it/canaleturismo/it/uffici_turismo.htm;1396461,649;4991757,672
+POINT (1396008.184 4990758.573);2;Uffici di informazione e accoglienza turistica;TORINO;CORSO VITTORIO EMANUELE II 53;1;10125;011 535181;011 530070;info.torino@turismotorino.org;http://www.comune.torino.it/canaleturismo/it/uffici_turismo.htm;1396008,184;4990758,573
+POINT (1396224.176 4991961.38);3;Informacitta';TORINO;PIAZZA PALAZZO DI CITTA' 9/A;1;10122;011 4422888 - 011 4422244 - 800 019531;011 4422072;info.torino@turismotorino.org;http://www.comune.torino.it/canaleturismo/it/uffici_turismo.htm;1396224,176;4991961,38

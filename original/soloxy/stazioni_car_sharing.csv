@@ -1,0 +1,84 @@
+WKT_GEOM;ID_CAR_SHARING;DENOMINAZIONE;UBICAZIONE;URL;TIPO;ID_TIPO;COORD_X;COORD_Y
+POINT (1392672.589492 4986890.29055254);1;Agnelli;Corso Agnelli, di fronte alla sede Fiat.;http://www.carcityclub.it/mappa-parcheggi;Andata;1;1392672,589492;4986890,29055254
+POINT (1392526.83630835 4986344.48177407);2;Caio Mario;Corso Unione Sovietica;http://www.carcityclub.it/mappa-parcheggi;Andata;1;1392526,83630835;4986344,48177407
+POINT (1393099.2033959 4988215.55741917);3;Montanari;Via Tripoli, di fronte al numero 166.;http://www.carcityclub.it/mappa-parcheggi;Andata / Classico;2;1393099,2033959;4988215,55741917
+POINT (1393234.6312887 4988544.86850609);4;Tripoli;Via Tripoli, di fronte al numero 122/B (angolo Via Filadelfia).;http://www.carcityclub.it/mappa-parcheggi;Andata / Classico;2;1393234,6312887;4988544,86850609
+POINT (1393381.64750589 4989012.1095423);5;Santa Rita;Corso Orbassano, di fronte al numero 124/C (angolo Piazza Santa Rita).;http://www.carcityclub.it/mappa-parcheggi;Andata / Classico;2;1393381,64750589;4989012,1095423
+POINT (1395022.11980149 4987317.56485453);6;Lingotto;Via Nizza, di fronte al numero 279.;http://www.carcityclub.it/mappa-parcheggi;Andata;1;1395022,11980149;4987317,56485453
+POINT (1392511.6758979 4989228.17484249);7;Siracusa;Corso Siracusa, angolo Corso Sebastopoli.;http://www.carcityclub.it/mappa-parcheggi;Andata / Classico;2;1392511,6758979;4989228,17484249
+POINT (1395244.16039006 4988089.96254394);8;Spezia;Via Nizza, di fronte al numero 207.;http://www.carcityclub.it/mappa-parcheggi;Andata / Classico;2;1395244,16039006;4988089,96254394
+POINT (1395448.4042333 4988534.1943189);9;Carducci;Corso Bramante, di fronte al numero 76 (angolo Piazza Carducci).;http://www.carcityclub.it/mappa-parcheggi;Andata / Classico;2;1395448,4042333;4988534,1943189
+POINT (1394208.69279964 4989780.83336925);10;Orbassano;Corso Duca degli Abruzzi, angolo Largo Orbassano;http://www.carcityclub.it/mappa-parcheggi;Andata / Classico;2;1394208,69279964;4989780,83336925
+POINT (1394989.4595752 4989339.34146155);11;Dante;Corso Dante, angolo Corso Turati.;http://www.carcityclub.it/mappa-parcheggi;Andata / Classico;2;1394989,4595752;4989339,34146155
+POINT (1394748.10336095 4989892.46877084);12;Caboto;Corso Galileo Ferraris, angolo Via Caboto.;http://www.carcityclub.it/mappa-parcheggi;Andata / Classico;2;1394748,10336095;4989892,46877084
+POINT (1395266.45773802 4989735.25552686);13;Turati;Corso Turati, di fronte al numero 15 Bis.;http://www.carcityclub.it/mappa-parcheggi;Andata / Classico / Elettrico;3;1395266,45773802;4989735,25552686
+POINT (1394208.02504222 4990428.77878867);14;Lione;Corso Lione, angolo Via Braccini.;http://www.carcityclub.it/mappa-parcheggi;Classico;5;1394208,02504222;4990428,77878867
+POINT (1395244.9954953 4990159.52449302);15;Sommeiller;Corso Re Umberto, angolo Corso Sommeiller.;http://www.carcityclub.it/mappa-parcheggi;Andata / Classico;2;1395244,9954953;4990159,52449302
+POINT (1395946.84580267 4989533.88064214);16;Raffaello;Corso Raffaello, angolo Via Madama Cristina.;http://www.carcityclub.it/mappa-parcheggi;Andata / Classico;2;1395946,84580267;4989533,88064214
+POINT (1394628.78186815 4990588.3761787);17;Einaudi;Corso Duca degli Abruzzi, angolo Corso Einaudi.;http://www.carcityclub.it/mappa-parcheggi;Classico;5;1394628,78186815;4990588,3761787
+POINT (1392652.92506649 4991015.60143745);18;Monginevro;Corso Trapani, di fronte al numero 158.;http://www.carcityclub.it/mappa-parcheggi;Andata / Classico;2;1392652,92506649;4991015,60143745
+POINT (1393682.82771248 4991082.23167672);19;Sabotino;"Piazza Sabotino, di fronte al numero 84/B (banchina centrale). &Egrave; disponibile anche il servizio Van Sharing.";http://www.carcityclub.it/mappa-parcheggi;Andata / Classico;2;1393682,82771248;4991082,23167672
+POINT (1395926.84992104 4990142.46649818);20;Saluzzo;Corso Marconi, di fronte al numero 4.;http://www.carcityclub.it/mappa-parcheggi;Andata / Classico;2;1395926,84992104;4990142,46649818
+POINT (1392280.90293624 4991280.89993311);21;Tofane;Via Tofane, angolo Corso Monte Cucco.;http://www.carcityclub.it/mappa-parcheggi;Andata / Classico;2;1392280,90293624;4991280,89993311
+POINT (1395692.09164119 4990937.90946786);22;Re Umberto;Corso Vittorio Emanuele II, di fronte al numero 71.;http://www.carcityclub.it/mappa-parcheggi;Andata / Classico;2;1395692,09164119;4990937,90946786
+POINT (1396058.44081919 4990696.90928608);23;Porta Nuova;Via Nizza 2, lato Porta Nuova.;http://www.carcityclub.it/mappa-parcheggi;Andata / Classico;2;1396058,44081919;4990696,90928608
+POINT (1394050.90377119 4991788.15371432);24;Adriano;Piazza Adriano, di fronte al numero 9/B.;http://www.carcityclub.it/mappa-parcheggi;Andata / Classico;2;1394050,90377119;4991788,15371432
+POINT (1396094.28783226 4990847.55637596);25;Carlo Felice;Piazza Carlo Felice, di fronte al numero 67.;http://www.carcityclub.it/mappa-parcheggi;Andata / Classico;2;1396094,28783226;4990847,55637596
+POINT (1395461.47514865 4991286.04411886);26;Matteotti;Corso Galileo Ferraris, angolo Corso Matteotti;http://www.carcityclub.it/mappa-parcheggi;Andata / Classico;2;1395461,47514865;4991286,04411886
+POINT (1394821.63175385 4991617.81742848);27;Inghilterra;Corso Inghilterra, angolo Via Cavalli.;http://www.carcityclub.it/mappa-parcheggi;Andata / Classico;2;1394821,63175385;4991617,81742848
+POINT (1396398.59764876 4990800.2664058);28;Bodoni;Via Pomba, angolo Via Mazzini. Consente l'utilizzo di Van Sharing.;http://www.carcityclub.it/mappa-parcheggi;Andata / Classico;2;1396398,59764876;4990800,2664058
+POINT (1393317.34606372 4992191.75800561);29;Rivoli;Corso Vittorio Emanuele II 237 (Piazza Rivoli).;http://www.carcityclub.it/mappa-parcheggi;Andata / Classico;2;1393317,34606372;4992191,75800561
+POINT (1396971.11626408 4990381.40641689);30;Cairoli;Corso Cairoli, di fronte al numero 32/A;http://www.carcityclub.it/mappa-parcheggi;Andata / Classico;2;1396971,11626408;4990381,40641689
+POINT (1392638.14294509 4992194.72311084);31;Monte Cucco;Corso Monte Cucco, angolo Corso Francia (Tesoriera).;http://www.carcityclub.it/mappa-parcheggi;Andata / Classico;2;1392638,14294509;4992194,72311084
+POINT (1395814.41446445 4991416.27266255);32;Solferino;Via Arcivescovado, angolo Piazza Solferino.;http://www.carcityclub.it/mappa-parcheggi;Andata / Classico / Elettrico;3;1395814,41446445;4991416,27266255
+POINT (1396273.10352633 4991179.77528276);33;CLN;Piazza CLN, angolo Via Gobetti. Consente l'utilizzo di Van Sharing.;http://www.carcityclub.it/mappa-parcheggi;Andata / Classico / Elettrico;3;1396273,10352633;4991179,77528276
+POINT (1395143.84585587 4991881.19176743);34;Bolzano;Corso Bolzano, di fronte al numero 44.;http://www.carcityclub.it/mappa-parcheggi;Andata / Elettrico;4;1395143,84585587;4991881,19176743
+POINT (1395345.69680291 4991864.76094191);35;Vinzaglio;Corso Vinzaglio, angolo Via Cernaia;http://www.carcityclub.it/mappa-parcheggi;Andata / Classico;2;1395345,69680291;4991864,76094191
+POINT (1395885.71594319 4991683.68008993);36;Stampatori;Via Stampatori, angolo Via Cernaia.;http://www.carcityclub.it/mappa-parcheggi;Andata / Classico;2;1395885,71594319;4991683,68008993
+POINT (1396230.11412142 4991470.27099436);37;Santa Teresa;Via Santa Teresa, angolo Via XX Settembre.;http://www.carcityclub.it/mappa-parcheggi;Andata / Classico;2;1396230,11412142;4991470,27099436
+POINT (1395193.65321579 4992084.94179275);38;XVIII Dicembre;Piazza XVIII Dicembre, di fronte al numero 4/G.;http://www.carcityclub.it/mappa-parcheggi;Andata / Classico;2;1395193,65321579;4992084,94179275
+POINT (1391341.66782698 4992240.70640253);39;Massaua;Piazza Massaua, angolo Via Pietro Cossa.;http://www.carcityclub.it/mappa-parcheggi;Andata / Classico;2;1391341,66782698;4992240,70640253
+POINT (1396856.91696759 4991203.52340894);40;Carlina;Piazza Carlo Emanuele II (Piazza Carlina). Consente l'utilizzo di Van Sharing.;http://www.carcityclub.it/mappa-parcheggi;Andata / Classico;2;1396856,91696759;4991203,52340894
+POINT (1397011.28918625 4991069.01898857);41;Maria Vittoria;Via Maria Vittoria, di fronte al numero 37/F.;http://www.carcityclub.it/mappa-parcheggi;Andata / Classico;2;1397011,28918625;4991069,01898857
+POINT (1395766.36725694 4992050.76641492);42;Arbarello;Piazza Arbarello, angolo Via della Cittadella. Consente l'utilizzo di Van Sharing.;http://www.carcityclub.it/mappa-parcheggi;Andata / Classico;2;1395766,36725694;4992050,76641492
+POINT (1397171.32277573 4991021.43215907);43;Vittorio Veneto;Via Plana, angolo Piazza Vittorio Veneto.;http://www.carcityclub.it/mappa-parcheggi;Elettrico;6;1397171,32277573;4991021,43215907
+POINT (1395091.93774455 4992448.97440651);44;Cibrario;Largo Cibrario, presso il numero 13.;http://www.carcityclub.it/mappa-parcheggi;Andata / Classico;2;1395091,93774455;4992448,97440651
+POINT (1396633.31000605 4991579.16903419);45;Castello;Piazza Castello, di fronte al numero 29. Consente anche l'utilizzo di Van Sharing.;http://www.carcityclub.it/mappa-parcheggi;Andata / Classico / Elettrico;3;1396633,31000605;4991579,16903419
+POINT (1395480.94345057 4992295.12542031);46;Statuto;Piazza Statuto, di fronte al numero 10.;http://www.carcityclub.it/mappa-parcheggi;Andata / Classico / Elettrico;3;1395480,94345057;4992295,12542031
+POINT (1397573.66078791 4990713.82529902);47;Gran Madre;Piazza Gran Madre, di fronte al numero 2.;http://www.carcityclub.it/mappa-parcheggi;Andata / Classico;2;1397573,66078791;4990713,82529902
+POINT (1395923.10348959 4992159.98904124);48;Savoia;Piazza Savoia, angolo Via della Consolata;http://www.carcityclub.it/mappa-parcheggi;Andata / Classico;2;1395923,10348959;4992159,98904124
+POINT (1394222.1263551 4992867.05524579);49;Ospedale Maria Vittoria;Corso Tassoni, di fronte al numero 45/B (Ospedale Maria Vittoria).;http://www.carcityclub.it/mappa-parcheggi;Andata / Classico;2;1394222,1263551;4992867,05524579
+POINT (1396445.2921965 4992040.36146855);50;Porta Palatina;Via Porta Palatina, angolo Via della Basilica.;http://www.carcityclub.it/mappa-parcheggi;Andata / Classico / Elettrico;3;1396445,2921965;4992040,36146855
+POINT (1397327.43580164 4991414.60426096);51;San Maurizio;Corso San Maurizio, angolo Via Sant'Ottavio.;http://www.carcityclub.it/mappa-parcheggi;Andata / Classico;2;1397327,43580164;4991414,60426096
+POINT (1395775.33391465 4992579.54358249);52;Rondò della Forca;Corso Principe Eugenio, di fronte al numero 2.;http://www.carcityclub.it/mappa-parcheggi;Andata / Classico;2;1395775,33391465;4992579,54358249
+POINT (1396709.6944471 4992356.53339965);53;XI Febbraio;Corso XI Febbraio, angolo Via Bazzi.;http://www.carcityclub.it/mappa-parcheggi;Andata / Classico;2;1396709,6944471;4992356,53339965
+POINT (1397368.96498615 4991856.5161524);54;Montebello;Corso Regina Margherita, angolo Via Montebello.;http://www.carcityclub.it/mappa-parcheggi;Andata / Classico;2;1397368,96498615;4991856,5161524
+POINT (1398015.29855786 4991570.23148355);55;Farini;Corso Regina Margherita, angolo Corso Farini. È disponibile anche il servizio di Van Sharing.;http://www.carcityclub.it/mappa-parcheggi;Andata / Classico;2;1398015,29855786;4991570,23148355
+POINT (1398258.68158191 4991737.90226358);56;Tortona;Corso Tortona, di fronte al numero 33.;http://www.carcityclub.it/mappa-parcheggi;Andata / Classico;2;1398258,68158191;4991737,90226358
+POINT (1397501.18095032 4993114.90536577);57;Bologna;Corso Novara, angolo Via Bologna.;http://www.carcityclub.it/mappa-parcheggi;Andata / Classico;2;1397501,18095032;4993114,90536577
+POINT (1394821.0943538 4994849.40789493);58;Villari;Piazza Villari;http://www.carcityclub.it/mappa-parcheggi;Andata / Classico;2;1394821,0943538;4994849,40789493
+POINT (1396144.33077908 4994547.54789178);59;Saorgio;Via Saorgio, angolo Via Chiesa della Salute;http://www.carcityclub.it/mappa-parcheggi;Andata / Classico;2;1396144,33077908;4994547,54789178
+POINT (1399550.34516008 4992041.85132292);60;Cadore;Corso Belgio, di fronte al numero 152 (angolo Corso Cadore).;http://www.carcityclub.it/mappa-parcheggi;Andata / Classico;2;1399550,34516008;4992041,85132292
+POINT (1395591.62977573 4994876.28094671);61;Breglio;Via Breglio, angolo Via Saorgio.;http://www.carcityclub.it/mappa-parcheggi;Andata / Classico;2;1395591,62977573;4994876,28094671
+POINT (1396218.36704204 4995018.82084712);62;Coppino;Via Coppino, di fronte al numero 65;http://www.carcityclub.it/mappa-parcheggi;Andata / Classico;2;1396218,36704204;4995018,82084712
+POINT (1397391.9776159 4995144.46980856);63;Rebaudengo;Piazza Rebaudengo, di fronte al numero 6.;http://www.carcityclub.it/mappa-parcheggi;Andata;1;1397391,9776159;4995144,46980856
+POINT (1399002.78167921 4994315.86472067);64;Sofia;Piazza Sofia, di fronte al numero 15.;http://www.carcityclub.it/mappa-parcheggi;Andata;1;1399002,78167921;4994315,86472067
+POINT (1384645.06035691 4991879.29491545);65;Dora Riparia;Via Dora Riparia, angolo Corso Francia.;http://www.carcityclub.it/mappa-parcheggi;Classico;5;1384645,06035691;4991879,29491545
+POINT (1407200.93831048 4985237.44612775);66;Sant'Antonio;Via Vittorio Emanuele II, di fronte al numero 16;http://www.carcityclub.it/mappa-parcheggi;Classico;5;1407200,93831048;4985237,44612775
+POINT (1407379.41975831 4985246.40738326);67;Cavour;Via Marconi, di fronte al numero 2, all'angolo con Piazza Cavour.;http://www.carcityclub.it/mappa-parcheggi;Classico;5;1407379,41975831;4985246,40738326
+POINT (1407569.40870368 4984711.20627654);68;San Domenico;Via Vittorio Emanuele II, di fronte al numero 77;http://www.carcityclub.it/mappa-parcheggi;Classico;5;1407569,40870368;4984711,20627654
+POINT (1393406.51747764 5005191.42779217);69;Aeroporto;Piano arrivi, settore B.;http://www.carcityclub.it/mappa-parcheggi;Andata;1;1393406,51747764;5005191,42779217
+POINT (1395511.66589946 4989043.96676156);70;De Amicis;Via Nizza, di fronte al numero 76.;http://www.carcityclub.it/mappa-parcheggi;Classico;5;1395511,66589946;4989043,96676156
+POINT (1393471.6151062 4983317.78034132);71;Giusti;Via Giusti, di fronte al numero 5;http://www.carcityclub.it/mappa-parcheggi;Classico;5;1393471,6151062;4983317,78034132
+POINT (1396242.22737952 4990013.42898563);72;Marconi;Corso Marconi, angolo Via Madama Cristina.;http://www.carcityclub.it/mappa-parcheggi;Classico;5;1396242,22737952;4990013,42898563
+POINT (1396037.07997317 4983732.1988339);73;Borgo Navile;"Piazza Caduti per la Libert&agrave;";http://www.carcityclub.it/mappa-parcheggi;Classico;5;1396037,07997317;4983732,1988339
+POINT (1394285.710187 4992367.29605375);74;Bernini;Corso Tassoni, angolo Piazza Bernini.;http://www.carcityclub.it/mappa-parcheggi;Classico;5;1394285,710187;4992367,29605375
+POINT (1389967.98115749 4992142.16218826);75;Paradiso;"Corso Francia, di fronte alla Stazione Metro &quot;Paradiso&quot;";http://www.carcityclub.it/mappa-parcheggi;Classico;5;1389967,98115749;4992142,16218826
+POINT (1388103.78909675 4990852.05128211);76;Matteotti;Piazza Matteotti, di fronte al numero 39.;http://www.carcityclub.it/mappa-parcheggi;Classico;5;1388103,78909675;4990852,05128211
+POINT (1387522.97777472 4992596.35230435);77;Repubblica;Piazza della Repubblica, angolo Via Roma.;http://www.carcityclub.it/mappa-parcheggi;Classico;5;1387522,97777472;4992596,35230435
+POINT (1388616.40669372 4994853.7259583);78;Ikea;Viale Svezia 1, Collegno. Parcheggio di sola sosta, riservato ai veicoli car sharing.;http://www.carcityclub.it/mappa-parcheggi;Classico;5;1388616,40669372;4994853,7259583
+POINT (1392268.12990363 4978169.42484006);79;Marconi;Piazza Marconi, di fronte al numero 1.;http://www.carcityclub.it/mappa-parcheggi;Classico;5;1392268,12990363;4978169,42484006
+POINT (1412177.96278237 5034797.84858949);80;Movicentro;Via Torino, area taxi;http://www.carcityclub.it/mappa-parcheggi;Classico;5;1412177,96278237;5034797,84858949
+POINT (1412166.6977377 5035419.04569777);81;Vittorio Emanuele;Piazza Vittorio Emanuele, di fronte al numero 21.;http://www.carcityclub.it/mappa-parcheggi;Classico;5;1412166,6977377;5035419,04569777
+POINT (1412573.30617322 5035382.03523566);82;Freguglia;Piazza Freguglia, di fronte all'Ufficio Postale;http://www.carcityclub.it/mappa-parcheggi;Classico;5;1412573,30617322;5035382,03523566
+POINT (1425830.17357277 5045686.94705149);83;Unità d'Italia;Piazza Unità d'Italia.;http://www.carcityclub.it/mappa-parcheggi;Classico;5;1425830,17357277;5045686,94705149

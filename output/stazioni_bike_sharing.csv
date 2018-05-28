@@ -1,0 +1,88 @@
+ID_BIKE_SHARING;STAZIONE;URL;geometry;LATITUDE;LONGITUDE;QUARTIERE;DQUARTIERE;CIRCOSCRIZ;DCIRCOSCRIZ
+1;Paravia;http://www.tobike.it/frmLeStazioni.aspx;POINT (7.670327252441759 45.07758654925023);45.07758654925023;7.670327252441759;1;Centro;1;Centro - Crocetta
+2;Porta Susa 2;http://www.tobike.it/frmLeStazioni.aspx;POINT (7.668254322375671 45.07334344282767);45.07334344282767;7.668254322375671;1;Centro;1;Centro - Crocetta
+3;Cernaia;http://www.tobike.it/frmLeStazioni.aspx;POINT (7.670330721186371 45.0727083503512);45.0727083503512;7.670330721186371;1;Centro;1;Centro - Crocetta
+4;Valdocco 2;http://www.tobike.it/frmLeStazioni.aspx;POINT (7.673765637136775 45.07534177095111);45.075341770951106;7.673765637136775;1;Centro;1;Centro - Crocetta
+6;Valdocco;http://www.tobike.it/frmLeStazioni.aspx;POINT (7.675706234831393 45.07803382529732);45.07803382529732;7.675706234831393;1;Centro;1;Centro - Crocetta
+7;via della consolata;http://www.tobike.it/frmLeStazioni.aspx;POINT (7.677963238442102 45.07567911621224);45.075679116212235;7.677963238442102;1;Centro;1;Centro - Crocetta
+8;Corte d`Appello;http://www.tobike.it/frmLeStazioni.aspx;POINT (7.679080691261319 45.07432929383231);45.074329293832314;7.679080691261319;1;Centro;1;Centro - Crocetta
+9;Statuto 2;http://www.tobike.it/frmLeStazioni.aspx;POINT (7.671663572761357 45.07625735142219);45.07625735142219;7.671663572761357;1;Centro;1;Centro - Crocetta
+11;Porta Palatina;http://www.tobike.it/frmLeStazioni.aspx;POINT (7.683958213418081 45.07380177024489);45.07380177024489;7.683958213418081;1;Centro;1;Centro - Crocetta
+12;Porta Nuova 1;http://www.tobike.it/frmLeStazioni.aspx;POINT (7.678794046145597 45.06297584120912);45.06297584120912;7.6787940461455975;1;Centro;1;Centro - Crocetta
+13;Porta Nuova 2;http://www.tobike.it/frmLeStazioni.aspx;POINT (7.679355457335787 45.06281323143861);45.06281323143861;7.679355457335787;1;Centro;1;Centro - Crocetta
+14;Lagrange;http://www.tobike.it/frmLeStazioni.aspx;POINT (7.680786872475142 45.06350244273764);45.063502442737644;7.680786872475142;1;Centro;1;Centro - Crocetta
+15;Solferino 2;http://www.tobike.it/frmLeStazioni.aspx;POINT (7.676142314506025 45.06819954726867);45.06819954726867;7.676142314506025;1;Centro;1;Centro - Crocetta
+16;Meucci;http://www.tobike.it/frmLeStazioni.aspx;POINT (7.675948983208997 45.06927695500368);45.06927695500368;7.675948983208997;1;Centro;1;Centro - Crocetta
+17;Matteotti 1;http://www.tobike.it/frmLeStazioni.aspx;POINT (7.674819862117634 45.06625999811362);45.066259998113615;7.674819862117634;1;Centro;1;Centro - Crocetta
+18;Bolzano;http://www.tobike.it/frmLeStazioni.aspx;POINT (7.666635656172934 45.07130427492882);45.07130427492882;7.666635656172934;1;Centro;1;Centro - Crocetta
+19;Vittorio Emanuele II 2;http://www.tobike.it/frmLeStazioni.aspx;POINT (7.665765911131073 45.06756956003128);45.06756956003128;7.665765911131073;1;Centro;1;Centro - Crocetta
+21;CLN;http://www.tobike.it/frmLeStazioni.aspx;POINT (7.682297032848943 45.06610192755818);45.06610192755818;7.682297032848943;1;Centro;1;Centro - Crocetta
+22;Arcivescovado;http://www.tobike.it/frmLeStazioni.aspx;POINT (7.678235345476907 45.06706950950003);45.06706950950003;7.678235345476907;1;Centro;1;Centro - Crocetta
+23;Castello 2;http://www.tobike.it/frmLeStazioni.aspx;POINT (7.686360632800623 45.06993321830048);45.06993321830048;7.686360632800623;1;Centro;1;Centro - Crocetta
+24;Universita' 1;http://www.tobike.it/frmLeStazioni.aspx;POINT (7.694378031253785 45.06843517845206);45.068435178452056;7.694378031253785;1;Centro;1;Centro - Crocetta
+25;Universita' 3;http://www.tobike.it/frmLeStazioni.aspx;POINT (7.691716959437814 45.06750492802674);45.067504928026736;7.691716959437814;1;Centro;1;Centro - Crocetta
+26;San Francesco da Paola;http://www.tobike.it/frmLeStazioni.aspx;POINT (7.689121015358961 45.06854135777413);45.06854135777413;7.689121015358961;1;Centro;1;Centro - Crocetta
+27;Carlo Alberto;http://www.tobike.it/frmLeStazioni.aspx;POINT (7.686631549106279 45.06808665727532);45.068086657275316;7.686631549106279;1;Centro;1;Centro - Crocetta
+28;Piazza Carlina;http://www.tobike.it/frmLeStazioni.aspx;POINT (7.688815581207673 45.06677583740601);45.066775837406006;7.688815581207673;1;Centro;1;Centro - Crocetta
+29;Valdo Fusi;http://www.tobike.it/frmLeStazioni.aspx;POINT (7.686393246391006 45.06477689605721);45.06477689605721;7.686393246391006;1;Centro;1;Centro - Crocetta
+30;Giardini Cavour;http://www.tobike.it/frmLeStazioni.aspx;POINT (7.688853358020196 45.06311492196392);45.063114921963916;7.688853358020196;1;Centro;1;Centro - Crocetta
+31;Bodoni;http://www.tobike.it/frmLeStazioni.aspx;POINT (7.684181184847128 45.0633734963133);45.063373496313304;7.6841811848471275;1;Centro;1;Centro - Crocetta
+33;Maria Vittoria;http://www.tobike.it/frmLeStazioni.aspx;POINT (7.692294071119252 45.06515981681306);45.06515981681306;7.692294071119252;1;Centro;1;Centro - Crocetta
+34;Vittorio Veneto 2;http://www.tobike.it/frmLeStazioni.aspx;POINT (7.693681854421065 45.0651661825674);45.065166182567395;7.693681854421065;1;Centro;1;Centro - Crocetta
+35;Murazzi;http://www.tobike.it/frmLeStazioni.aspx;POINT (7.693982048695127 45.06171609193781);45.06171609193781;7.693982048695127;1;Centro;1;Centro - Crocetta
+54;Giulia di Barolo;http://www.tobike.it/frmLeStazioni.aspx;POINT (7.69683282068261 45.06726812387772);45.06726812387772;7.6968328206826095;1;Centro;1;Centro - Crocetta
+62;Pietro Micca;http://www.tobike.it/frmLeStazioni.aspx;POINT (7.6821658549477 45.07054457316363);45.07054457316363;7.6821658549477;1;Centro;1;Centro - Crocetta
+64;Arbarello;http://www.tobike.it/frmLeStazioni.aspx;POINT (7.676655341732916 45.07361408579185);45.07361408579185;7.676655341732916;1;Centro;1;Centro - Crocetta
+66;Giolitti 1;http://www.tobike.it/frmLeStazioni.aspx;POINT (7.683457868177822 45.06653944088154);45.06653944088154;7.683457868177822;1;Centro;1;Centro - Crocetta
+68;Giolitti 2;http://www.tobike.it/frmLeStazioni.aspx;POINT (7.690432083216197 45.06411489751512);45.06411489751512;7.690432083216197;1;Centro;1;Centro - Crocetta
+73;Paleocapa;http://www.tobike.it/frmLeStazioni.aspx;POINT (7.67873884132975 45.0641920565731);45.0641920565731;7.67873884132975;1;Centro;1;Centro - Crocetta
+74;Matteotti 2;http://www.tobike.it/frmLeStazioni.aspx;POINT (7.670358114092416 45.06802920662449);45.068029206624495;7.670358114092416;1;Centro;1;Centro - Crocetta
+84;Vittorio Emanuele II 4;http://www.tobike.it/frmLeStazioni.aspx;POINT (7.682352987861418 45.06167328150801);45.061673281508014;7.682352987861418;1;Centro;1;Centro - Crocetta
+88;RAI;http://www.tobike.it/frmLeStazioni.aspx;POINT (7.691357404940384 45.06886269701104);45.06886269701104;7.691357404940384;1;Centro;1;Centro - Crocetta
+5;Sommeiller;http://www.tobike.it/frmLeStazioni.aspx;POINT (7.671835469687834 45.05528791680394);45.05528791680394;7.671835469687834;3;Crocetta;1;Centro - Crocetta
+41;Re Umberto;http://www.tobike.it/frmLeStazioni.aspx;POINT (7.670567778897626 45.05944458019268);45.05944458019268;7.670567778897626;3;Crocetta;1;Centro - Crocetta
+42;Re Umberto 2;http://www.tobike.it/frmLeStazioni.aspx;POINT (7.668109418258712 45.05592400725413);45.055924007254134;7.6681094182587115;3;Crocetta;1;Centro - Crocetta
+43;Politecnico 2;http://www.tobike.it/frmLeStazioni.aspx;POINT (7.66310025470597 45.06223709592352);45.06223709592352;7.66310025470597;3;Crocetta;1;Centro - Crocetta
+44;Politecnico 3;http://www.tobike.it/frmLeStazioni.aspx;POINT (7.661267649051156 45.06073369938173);45.06073369938173;7.6612676490511555;3;Crocetta;1;Centro - Crocetta
+45;Politecnico 1;http://www.tobike.it/frmLeStazioni.aspx;POINT (7.662749635310226 45.06253791411765);45.06253791411765;7.662749635310226;3;Crocetta;1;Centro - Crocetta
+46;Politecnico 4;http://www.tobike.it/frmLeStazioni.aspx;POINT (7.6600744065188 45.06397013667045);45.06397013667045;7.6600744065188;3;Crocetta;1;Centro - Crocetta
+71;Bertola 1;http://www.tobike.it/frmLeStazioni.aspx;POINT (7.663958835546984 45.05527520068629);45.05527520068629;7.663958835546984;3;Crocetta;1;Centro - Crocetta
+77;Castello 3;http://www.tobike.it/frmLeStazioni.aspx;POINT (7.664927286456165 45.06476043266258);45.06476043266258;7.664927286456165;3;Crocetta;1;Centro - Crocetta
+79;Galileo Ferraris 2;http://www.tobike.it/frmLeStazioni.aspx;POINT (7.664627256273797 45.05666404119789);45.05666404119789;7.664627256273797;3;Crocetta;1;Centro - Crocetta
+82;Mauriziano 1;http://www.tobike.it/frmLeStazioni.aspx;POINT (7.666021617500038 45.05005206746925);45.05005206746925;7.6660216175000375;3;Crocetta;1;Centro - Crocetta
+83;Mauriziano 2;http://www.tobike.it/frmLeStazioni.aspx;POINT (7.663573847669492 45.05157957970066);45.05157957970066;7.663573847669492;3;Crocetta;1;Centro - Crocetta
+87;Tribunale 1;http://www.tobike.it/frmLeStazioni.aspx;POINT (7.6669380402087 45.05959424461906);45.059594244619056;7.6669380402086995;3;Crocetta;1;Centro - Crocetta
+85;Turati;http://www.tobike.it/frmLeStazioni.aspx;POINT (7.663743362914057 45.04798503791989);45.04798503791989;7.663743362914057;10;Mercati generali;1;Centro - Crocetta
+65;Inghilterra 1;http://www.tobike.it/frmLeStazioni.aspx;POINT (7.665567444637492 45.07250380765796);45.07250380765796;7.665567444637492;1;Centro;3;San Paolo - Cenisia - Pozzo Strada - Cit Turin - Borgata Lesna
+47;Ferrucci;http://www.tobike.it/frmLeStazioni.aspx;POINT (7.655824415729346 45.06379344221764);45.06379344221764;7.655824415729346;5;Cenisia;3;San Paolo - Cenisia - Pozzo Strada - Cit Turin - Borgata Lesna
+48;Principi d`Acaja 1;http://www.tobike.it/frmLeStazioni.aspx;POINT (7.662400347555829 45.07328087139808);45.073280871398076;7.662400347555829;5;Cenisia;3;San Paolo - Cenisia - Pozzo Strada - Cit Turin - Borgata Lesna
+49;Principi d`Acaja 2;http://www.tobike.it/frmLeStazioni.aspx;POINT (7.664088442171067 45.07587728100677);45.07587728100677;7.664088442171067;5;Cenisia;3;San Paolo - Cenisia - Pozzo Strada - Cit Turin - Borgata Lesna
+51;Adriano;http://www.tobike.it/frmLeStazioni.aspx;POINT (7.655749675391013 45.07077750541979);45.07077750541979;7.655749675391013;5;Cenisia;3;San Paolo - Cenisia - Pozzo Strada - Cit Turin - Borgata Lesna
+76;Lione;http://www.tobike.it/frmLeStazioni.aspx;POINT (7.656415104585617 45.06000767461997);45.06000767461997;7.6564151045856175;4;San Paolo;3;San Paolo - Cenisia - Pozzo Strada - Cit Turin - Borgata Lesna
+10;XI Febbraio;http://www.tobike.it/frmLeStazioni.aspx;POINT (7.687352481517252 45.07682143725918);45.07682143725918;7.6873524815172525;7;Aurora;7;Aurora, Vanchiglia - Sassi - Madonna del Pilone
+20;Padova;http://www.tobike.it/frmLeStazioni.aspx;POINT (7.69831623253948 45.07908844297254);45.07908844297254;7.69831623253948;7;Aurora;7;Aurora, Vanchiglia - Sassi - Madonna del Pilone
+52;Dora Firenze;http://www.tobike.it/frmLeStazioni.aspx;POINT (7.689306432360493 45.07949696987372);45.079496969873716;7.689306432360493;7;Aurora;7;Aurora, Vanchiglia - Sassi - Madonna del Pilone
+63;Cimitero Monumentale;http://www.tobike.it/frmLeStazioni.aspx;POINT (7.701398976835141 45.0788182177118);45.0788182177118;7.701398976835141;7;Aurora;7;Aurora, Vanchiglia - Sassi - Madonna del Pilone
+80;Maria Adelaide 2;http://www.tobike.it/frmLeStazioni.aspx;POINT (7.693434422961218 45.07641305449761);45.07641305449761;7.693434422961218;7;Aurora;7;Aurora, Vanchiglia - Sassi - Madonna del Pilone
+53;Lungo Po Cadorna;http://www.tobike.it/frmLeStazioni.aspx;POINT (7.698861899010566 45.06557955956509);45.06557955956509;7.6988618990105655;8;Vanchiglia;7;Aurora, Vanchiglia - Sassi - Madonna del Pilone
+55;Regina Margherita 1;http://www.tobike.it/frmLeStazioni.aspx;POINT (7.705725755302733 45.06951428748578);45.06951428748578;7.705725755302733;8;Vanchiglia;7;Aurora, Vanchiglia - Sassi - Madonna del Pilone
+60;Regina Margherita 2;http://www.tobike.it/frmLeStazioni.aspx;POINT (7.6973053583026 45.07236525572581);45.072365255725806;7.6973053583026;8;Vanchiglia;7;Aurora, Vanchiglia - Sassi - Madonna del Pilone
+72;Sacchi;http://www.tobike.it/frmLeStazioni.aspx;POINT (7.702049925102541 45.06912376684586);45.06912376684586;7.702049925102541;8;Vanchiglia;7;Aurora, Vanchiglia - Sassi - Madonna del Pilone
+81;Dora Siena 1;http://www.tobike.it/frmLeStazioni.aspx;POINT (7.702140664405994 45.07487921149107);45.07487921149107;7.702140664405994;8;Vanchiglia;7;Aurora, Vanchiglia - Sassi - Madonna del Pilone
+32;Vittorio Emanuele II 5;http://www.tobike.it/frmLeStazioni.aspx;POINT (7.683857448340022 45.06081898885379);45.06081898885379;7.683857448340022;2;San Salvario;8;San Salvario - Cavoretto - Borgo Po - Nizza Millefonti - Lingotto - Filadelfia
+36;Valentino 1;http://www.tobike.it/frmLeStazioni.aspx;POINT (7.688107286302269 45.05912766374907);45.05912766374907;7.6881072863022695;2;San Salvario;8;San Salvario - Cavoretto - Borgo Po - Nizza Millefonti - Lingotto - Filadelfia
+39;Marconi 1;http://www.tobike.it/frmLeStazioni.aspx;POINT (7.682720468165704 45.05552182805343);45.05552182805343;7.682720468165704;2;San Salvario;8;San Salvario - Cavoretto - Borgo Po - Nizza Millefonti - Lingotto - Filadelfia
+40;Belfiore;http://www.tobike.it/frmLeStazioni.aspx;POINT (7.678377079354652 45.05423235366939);45.05423235366939;7.678377079354652;2;San Salvario;8;San Salvario - Cavoretto - Borgo Po - Nizza Millefonti - Lingotto - Filadelfia
+57;Dante;http://www.tobike.it/frmLeStazioni.aspx;POINT (7.672670819777501 45.04768652915498);45.04768652915498;7.672670819777501;2;San Salvario;8;San Salvario - Cavoretto - Borgo Po - Nizza Millefonti - Lingotto - Filadelfia
+59;Molinette 2;http://www.tobike.it/frmLeStazioni.aspx;POINT (7.677528824474113 45.04270626824118);45.042706268241176;7.677528824474113;2;San Salvario;8;San Salvario - Cavoretto - Borgo Po - Nizza Millefonti - Lingotto - Filadelfia
+67;Madama Cristina;http://www.tobike.it/frmLeStazioni.aspx;POINT (7.675698070147894 45.04725613695668);45.04725613695668;7.675698070147894;2;San Salvario;8;San Salvario - Cavoretto - Borgo Po - Nizza Millefonti - Lingotto - Filadelfia
+69;Sant'Anselmo;http://www.tobike.it/frmLeStazioni.aspx;POINT (7.681096464292128 45.05929894026978);45.05929894026978;7.681096464292128;2;San Salvario;8;San Salvario - Cavoretto - Borgo Po - Nizza Millefonti - Lingotto - Filadelfia
+70;Baretti;http://www.tobike.it/frmLeStazioni.aspx;POINT (7.681281555371693 45.0576203359801);45.057620335980104;7.681281555371693;2;San Salvario;8;San Salvario - Cavoretto - Borgo Po - Nizza Millefonti - Lingotto - Filadelfia
+78;Torino Esposizioni;http://www.tobike.it/frmLeStazioni.aspx;POINT (7.681238453155321 45.0504248313317);45.050424831331696;7.681238453155321;2;San Salvario;8;San Salvario - Cavoretto - Borgo Po - Nizza Millefonti - Lingotto - Filadelfia
+37;Fiume;http://www.tobike.it/frmLeStazioni.aspx;POINT (7.693458681915817 45.05806309880165);45.058063098801654;7.693458681915817;22;Borgo Poe Cavoretto;8;San Salvario - Cavoretto - Borgo Po - Nizza Millefonti - Lingotto - Filadelfia
+38;Gran Madre;http://www.tobike.it/frmLeStazioni.aspx;POINT (7.698581046782605 45.06306816856193);45.063068168561934;7.698581046782605;22;Borgo Poe Cavoretto;8;San Salvario - Cavoretto - Borgo Po - Nizza Millefonti - Lingotto - Filadelfia
+56;Borromini;http://www.tobike.it/frmLeStazioni.aspx;POINT (7.70861446954645 45.06720579854146);45.06720579854146;7.7086144695464505;22;Borgo Poe Cavoretto;8;San Salvario - Cavoretto - Borgo Po - Nizza Millefonti - Lingotto - Filadelfia
+75;Dora Siena 2;http://www.tobike.it/frmLeStazioni.aspx;POINT (7.664226570104252 45.04439233104763);45.044392331047625;7.664226570104252;10;Mercati generali;8;San Salvario - Cavoretto - Borgo Po - Nizza Millefonti - Lingotto - Filadelfia
+86;Molinette 1;http://www.tobike.it/frmLeStazioni.aspx;POINT (7.673097101181255 45.04222650785992);45.04222650785992;7.673097101181255;9;Nizza mille fonti;8;San Salvario - Cavoretto - Borgo Po - Nizza Millefonti - Lingotto - Filadelfia
+50;Bernini;http://www.tobike.it/frmLeStazioni.aspx;POINT (7.655483464069984 45.07619238699218);45.076192386992176;7.6554834640699845;6;San Donato;4;San Donato - Campidoglio - Parella
+58;Piazza d`Armi;http://www.tobike.it/frmLeStazioni.aspx;POINT (7.658302442333238 45.04810666653642);45.04810666653642;7.6583024423332375;11;Santa Rita;2;Santa Rita - Mirafiori

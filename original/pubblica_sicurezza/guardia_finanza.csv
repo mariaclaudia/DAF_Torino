@@ -1,0 +1,5 @@
+WKT_GEOM;ID_GDF;SEDE;INDIRIZZO;CIRCOSCRIZ;CAP;TELEFONO;URL;COORD_X;COORD_Y
+POINT (1393963.67 4989434.87);1;Comando Regionale Piemonte;VIA ROMOLO GESSI 5;2;10136;011 33051;http://www.gdf.gov.it/reparti/regione.asp?codregione=TO021;1393963,67;4989434,87
+POINT (1393936.89 4989296.548);2;Guardia Di Finanza;CORSO QUATTRO NOVEMBRE 40;2;10136;011 3305111;http://www.gdf.gov.it/reparti/regione.asp?codregione=TO022;1393936,89;4989296,548
+POINT (1394442.287 4987735.775);4;Guardia Di Finanza Compagnia Pronto Impiego;VIA ZINO GIACOMO ZINI 136;8;10134;011 3199240;http://www.gdf.gov.it/reparti/regione.asp?codregione=TO024;1394442,287;4987735,775
+POINT (1394361.13 4987846.549);5;Guardia Di Finanza Nucleo Regionale Polizia Tributaria;VIA BRUNO GIORDANO 141;8;10134;011 3047111;http://www.gdf.gov.it/reparti/regione.asp?codregione=TO025;1394361,13;4987846,549
